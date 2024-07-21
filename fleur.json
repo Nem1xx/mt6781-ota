@@ -1,28 +1,28 @@
 {
 	"response": [
-		{
-			"maintainer": "Nem1x",
-			"oem": "Xiaomi",
-			"device": "Redmi Note 11S",
-			"filename": "crDroidAndroid-13.0-Gapps-20231113-fleur-v9.11.zip",
-			"download": "https://github.com/Nem1xx/crdroid_releases/releases/download/9.11/crDroidAndroid-13.0-Gapps-20231113-fleur-v9.11.zip",
-			"timestamp": 1699915076,
-			"md5": "83f261230a85a1a7d88a937d026989a0",
-			"sha256": "9d8776e8237f26e01f9e09412cb918c0e3ca6efe7ca5747d962f7fdf04d6d5e2",
-			"size": 1130402852,
-			"version": "9.11",
-			"buildtype": "Monthly",
-			"forum": "https://t.me/mi6781_chat",
-			"gapps": "",
-			"firmware": "",
-			"modem": "",
-			"bootloader": "",
-			"recovery": "https://1np2mh-my.sharepoint.com/:u:/g/personal/redmi7a_1np2mh_onmicrosoft_com/Efeo5Y5y8VtIocEywh-1y1ABSQcRfkWIaTlpwKck-FxjwQ?download=1",
-			"paypal": "https://www.paypal.com/paypalme/Nem1xDev",
-			"telegram": "https://t.me/mi6781_chat",
-			"dt": "",
-			"common-dt": "",
-			"kernel": ""
-		}
+			{
+				   	"maintainer": "Nem1x",
+					"oem": "Xiaomi",
+					"device": "Redmi Note 11S",
+					"filename": "crDroidAndroid-Gapps-13.0-20240721-fleur-v9.18.zip",
+					"download": "https://github.com/Nem1xx/crdroid_releases/releases/download/9.18-fleur/crDroidAndroid-Gapps-13.0-20240721-fleur-v9.18.zip",
+					"timestamp": 1721570813,
+					"md5": "284f47fdad434c3d8bb92e7b9cdcc120",
+					"sha256": "c682bbb3a73200ae4551a6140cbffc0515006480512918afc9a062bbd39ad5c6",
+					"size": 1172277518,
+					"version": "9.18",
+					"buildtype": "Monthly",
+					"forum": "https://t.me/mi6781_chat",
+					"gapps": "",
+					"firmware": "",
+					"modem": "",
+					"bootloader": "",
+					"recovery": "",
+					"paypal": "https://www.paypal.com/paypalme/Nem1xDev",
+					"telegram": "https://t.me/mi6781_chat",
+					"dt": "",
+					"common-dt": "",
+					"kernel": ""
+			}
 	]
 }
