@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "Nem1x",
+			"oem": "Xiaomi",
+			"device": "Redmi Note 12S",
+			"filename": "crDroidAndroid-13.0-Gapps-20240416-sea-v9.15.zip",
+			"download": "https://github.com/Nem1xx/crdroid_releases/releases/download/9.15-sea/crDroidAndroid-13.0-Gapps-20240416-sea-v9.15.zip",
+			"timestamp": 1713272499,
+			"md5": "06245a1b4f5c970d5036433db88b41f4",
+			"sha256": "749dd181e5d961d28057fba1c8fddd52914e9877ea120cfe2fa39900a780ae6a",
+			"size": 1438170379,
+			"version": "9.15",
+			"buildtype": "Monthly",
+			"forum": "https://t.me/mi6781_chat",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "https://github.com/Nem1xx/crdroid_releases/releases/download/9.15-sea/crdroid-boot.img",
+			"paypal": "https://www.paypal.com/paypalme/Nem1xDev",
+			"telegram": "https://t.me/mi6781_chat",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
