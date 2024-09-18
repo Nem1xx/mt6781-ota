@@ -1,15 +1,15 @@
 {
     "response": [
             {
-                    "maintainer": "",
+                    "maintainer": Nem1x",
                     "oem": "",
                     "device": "",
-                    "filename": "crDroidAndroid-14.0-20240915-fleur-v10.8.zip",
-                    "download": "https://github.com/Nem1xx/crdroid_mt6781_ota/releases/download/10.8/crDroidAndroid-14.0-20240915-fleur-v10.8.zip",
-                    "timestamp": 1726425881,
-                    "md5": "2c52912cf1b09d80c1d02685206a1531",
-                    "sha256": "70ef020c39a32b21b9590c257e0e2cf7cb3451a063616b118b3589c684500970",
-                    "size": 1301876314,
+                    "filename": "crDroidAndroid-14.0-20240918-fleur-v10.8.zip",
+                    "download": "https://github.com/Nem1xx/crdroid_mt6781_ota/releases/download/10.8/crDroidAndroid-14.0-20240918-fleur-v10.8.zip",
+                    "timestamp": 1726655990,
+                    "md5": "e9a97e42eb0efef21431d12c45ddb1d0",
+                    "sha256": "261fefd14525d16a922efb44441bfda2cb3891e7aa62914702d65ec47f807b66",
+                    "size": 1305021504,
                     "version": "10.8",
                     "buildtype": "Monthly",
                     "forum": "https://t.me/mi6781_chat",
